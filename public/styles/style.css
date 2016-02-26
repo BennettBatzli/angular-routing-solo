@@ -1,0 +1,158 @@
+body {
+    background-image: url("http://wallpapercave.com/wp/MG7Zzam.jpg");
+    background-size: cover;
+}
+
+header {
+    color: #DFCA93;
+    text-align: center;
+    font-size: 3.4em;
+    font-weight: bold;
+    background-color: #492121;
+    border-radius: 20px;
+    margin: 0 20%;
+}
+
+footer {
+    margin-bottom: 10%;
+}
+
+h1 {
+    font-family: 'Marcellus SC', serif;
+    margin-top: 20%;
+}
+
+.character-container {
+    background-color: #492121;
+    border-radius: 20px;
+    height: 80%;
+    margin: 0 4% 10% 4%;
+}
+
+.navigators {
+    list-style-type: none;
+    font-family: 'Marcellus SC', serif;
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+    color: #65c3df;
+    font-weight: bold;
+    font-size: 2em;
+    font-family: 'Marcellus SC', serif;
+}
+
+h2 {
+    color: #DFCA93;
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Marcellus SC', serif;
+}
+
+h3 {
+    color: #DFCA93;
+    margin-left: 8%;
+    font-size: 2.5em;
+    font-family: 'Marcellus SC', serif;
+
+}
+
+p {
+    color: #DFCA93;
+    margin-left: 10%;
+    font-family: 'Marcellus SC', serif;
+    font-size: 2em;
+}
+
+#home-nav {
+    margin: 0 4% 1% 4%;
+    background-color: #492121;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#ned-nav {
+    margin: 0 4% 1% 4%;
+    background-color: #492121;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#sansa-nav {
+    margin: 0 4% 1% 4%;
+    background-color: #492121;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#tyrion-nav {
+    margin: 0 4% 1% 4%;
+    background-color: #492121;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#westeros {
+    display: block;
+    margin: 0 auto 20% auto;
+    max-width: 20%;
+    height: auto;
+}
+
+#eddard-image {
+    display: block;
+    margin: 0 10% 0 3%;
+    float: right;
+    max-width: 40%;
+    height: auto;
+}
+
+#sansa-image {
+    display: block;
+    margin: 0 10% 0 3%;
+    float: right;
+    max-width: 40%;
+    height: auto;
+}
+
+#tyrion-image {
+    display: block;
+    margin: 0 10% 0 3%;
+    float: right;
+    max-width: 45%;
+    height: auto;
+}
+
+.button-container {
+    text-align: center;
+    background-color: green;
+    width: 40%;
+    height: 40%;
+}
+
+button {
+    background-color: #dd0007;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1% 1%;
+    font-size: 2em;
+    font-family: 'Marcellus SC', serif;
+    margin-bottom: 2%;
+}
+
+button:active {
+    background-color: white;
+}
+
+#button-show {
+    margin: 0 0 0 20%;
+}
+
+.spoiler {
+    margin-bottom: 10%;
+}
